@@ -61,13 +61,21 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 
 ## Output:
 ![op1](op1.PNG)
+
 ![op1](op2.png)
+
 ![op1](op3.PNG)
+
 ![op1](op4.PNG)
+
 ![op1](op5.PNG)
+
 ![op1](op6.png)
+
 ![op1](op7.PNG)
+
 ![op1](op8.PNG)
+
 ![op1](op9.PNG)
 
 
